@@ -1,0 +1,11 @@
+{
+  "name": "contact",
+  "version": "0.0.1",
+  "description": "コンタクトページを作ってみる。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Penguin-123456",
+  "license": "MIT"
+}
